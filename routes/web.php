@@ -1,5 +1,7 @@
 <?php
 
+use App\Events\TaskUpdate;
+use App\Models\Task;
 use Illuminate\Support\Facades\Route;
 
 /*
